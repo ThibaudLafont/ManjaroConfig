@@ -56,10 +56,12 @@ bindkey '^[[Z' undo                                             # Shift+tab undo
 alias cp="cp -i"                                                # Confirm before overwriting something
 alias df='df -h'                                                # Human-readable sizes
 alias free='free -m'                                            # Show sizes in MB
-alias gitu='git add . && git commit && git push'
+# alias gitu='git add . && git commit && git push'
 alias config='cd /home/thib/Dev/Config'
 alias dockconf='cd /home/thib/Dev/Docker'
 alias www='cd /home/thib/Dev/www/'
+alias dgit='docker run -ti --rm -v $(pwd):/git -v $HOME/.ssh:/root/.ssh alpine/git'
+alias composer='docker run --rm -v $(pwd):/app -v $HOME/.ssh:/root/.ssh composer/composer --ignore-platform-reqs'
 
 # Theming section  
 autoload -U compinit colors zcalc
