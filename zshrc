@@ -214,3 +214,5 @@ case $(basename "$(cat "/proc/$PPID/comm")") in
   	fi
     ;;
 esac
+
+fpath=(/home/thib/.zsh/completion $fpath)
