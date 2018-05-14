@@ -1,0 +1,220 @@
+<application>
+  <component name="RecentDirectoryProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/Dev/Docker/www/sonata" />
+        <option value="$USER_HOME$/Dev/Docker/www/bebert" />
+        <option value="$USER_HOME$/Dev/Docker/www/snow" />
+        <option value="$USER_HOME$/Dev/Docker/www/todo" />
+        <option value="$USER_HOME$/Dev/Docker/www/bilemo" />
+        <option value="$USER_HOME$/Dev/Docker/www/mariedb" />
+        <option value="$USER_HOME$/Dev/Docker/www/apiact" />
+        <option value="$USER_HOME$/Dev/Docker/www/apicourse" />
+        <option value="$USER_HOME$/Dev/Docker/www/apilearn" />
+        <option value="$USER_HOME$/Dev/Docker/www/fosrest" />
+        <option value="$USER_HOME$/Dev/Docker/www/fuck" />
+        <option value="$USER_HOME$/Dev/Docker/www/symfotest" />
+        <option value="$USER_HOME$/container/www/symfotest" />
+        <option value="$USER_HOME$/container/www/sysmodWeb" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/Dev/Docker/www/sonata" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/Dev/Docker/www/sonata" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Dev/Docker/www/apiact">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-172.3317.83" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1517474950681" />
+              <option name="buildTimestamp" value="1500379507949" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Dev/Docker/www/apicourse">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-172.3317.83" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1516175789663" />
+              <option name="buildTimestamp" value="1500379540544" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Dev/Docker/www/apilearn">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-172.3317.83" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1516175743709" />
+              <option name="buildTimestamp" value="1500379540544" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Dev/Docker/www/bebert">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-172.3317.83" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1524750343440" />
+              <option name="buildTimestamp" value="1500379537408" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Dev/Docker/www/bilemo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-172.3317.83" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1523463013740" />
+              <option name="buildTimestamp" value="1500379503652" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Dev/Docker/www/fosrest">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-172.3317.83" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1515666606419" />
+              <option name="buildTimestamp" value="1500379533840" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Dev/Docker/www/fuck">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-172.3317.83" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1515491610581" />
+              <option name="buildTimestamp" value="1500379527763" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Dev/Docker/www/mariedb">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-172.3317.83" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1523461985854" />
+              <option name="buildTimestamp" value="1500379503652" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Dev/Docker/www/snow">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-172.3317.83" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1524055958479" />
+              <option name="buildTimestamp" value="1500379543651" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Dev/Docker/www/sonata">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-172.3317.83" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1526051223042" />
+              <option name="buildTimestamp" value="1500379500545" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Dev/Docker/www/symfotest">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-172.3317.83" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1511352843156" />
+              <option name="buildTimestamp" value="1500379500601" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Dev/Docker/www/todo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-172.3317.83" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1523542259919" />
+              <option name="buildTimestamp" value="1500379557461" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/container/www/blog">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-172.3317.83" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1507034868415" />
+              <option name="buildTimestamp" value="1500379545597" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/container/www/blogReal">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-172.3317.83" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1506799014390" />
+              <option name="buildTimestamp" value="1500379546524" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/container/www/cuiremonoeuf">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-172.3317.83" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1506628542927" />
+              <option name="buildTimestamp" value="1500379540571" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/container/www/symfotest">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-172.3317.83" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1511182030630" />
+              <option name="buildTimestamp" value="1500379507672" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/container/www/sysmodWeb">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-172.3317.83" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1510256273966" />
+              <option name="buildTimestamp" value="1500379548882" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/Dev/Docker/www" />
+  </component>
+</application>

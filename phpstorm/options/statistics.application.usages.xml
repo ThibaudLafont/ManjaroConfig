@@ -1,0 +1,43 @@
+<application>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="AbstractNewProjectStep.PHP Empty Project" count="1" />
+      <entry feature="CreateFile.CreateFileAction" count="151" />
+      <entry feature="JSDebugConfig.Debug.browser-default.preferredBrowser-null.no_mappings" count="4" />
+      <entry feature="OpenInBrowser.Chrome" count="3" />
+      <entry feature="OpenInBrowser.Opera" count="1" />
+      <entry feature="StripeButton[Version_Control].hidden" count="5" />
+      <entry feature="StripeButton[Version_Control].shown" count="4" />
+      <entry feature="execute.JavascriptDebugType.Debug" count="4" />
+      <entry feature="execute.NodeJSConfigurationType.Debug" count="1" />
+      <entry feature="execute.NodeJSConfigurationType.Run" count="10" />
+      <entry feature="execute.PhpLocalRunConfigurationType.Debug" count="1" />
+      <entry feature="ide.help.ideaInterface.editor" count="10" />
+      <entry feature="ide.settings.Appearance" count="22" />
+      <entry feature="ide.settings.Color_Scheme" count="25" />
+      <entry feature="ide.settings.Color_Scheme_Font" count="11" />
+      <entry feature="ide.settings.Composer" count="1" />
+      <entry feature="ide.settings.Console_Font" count="1" />
+      <entry feature="ide.settings.Directories" count="3" />
+      <entry feature="ide.settings.File_and_Code_Templates" count="1" />
+      <entry feature="ide.settings.Font" count="8" />
+      <entry feature="ide.settings.General" count="1" />
+      <entry feature="ide.settings.JavaScript" count="6" />
+      <entry feature="ide.settings.Keymap" count="9" />
+      <entry feature="ide.settings.Language_Defaults" count="15" />
+      <entry feature="ide.settings.Libraries" count="1" />
+      <entry feature="ide.settings.PHP" count="17" />
+      <entry feature="ide.settings.Plugins" count="1" />
+      <entry feature="ide.settings.Preview" count="2" />
+      <entry feature="ide.settings.Web_Browsers" count="1" />
+      <entry feature="ideaapp.started" count="259" />
+      <entry feature="terminal.linux" count="15" />
+      <entry feature="tips.of.the.day.next" count="6" />
+      <entry feature="tips.of.the.day.prev" count="1" />
+      <entry feature="uml.ShowDiagram.DIFF.popup" count="2" />
+      <entry feature="uml.ShowDiagram.PHP" count="24" />
+      <entry feature="uml.ShowDiagram.PHP.popup" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenDirectoryProject" count="2" />
+    </counts>
+  </component>
+</application>

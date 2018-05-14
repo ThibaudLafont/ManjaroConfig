@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="class_diagramm" type="DTD" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="old" type="Twig" />
+      <mapping pattern="app_normalizer.yaml" type="YAML" />
+    </extensionMap>
+  </component>
+</application>

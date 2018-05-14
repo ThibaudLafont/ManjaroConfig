@@ -1,4 +1,4 @@
-usermod -aG docker $USER
+sudo usermod -aG docker $USER
 newgrp docker
 
 mkdir -p ~/.zsh/completion

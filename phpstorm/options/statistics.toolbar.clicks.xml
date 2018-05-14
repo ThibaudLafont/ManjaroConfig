@@ -1,0 +1,51 @@
+<application>
+  <component name="ToolbarClicksCollector">
+    <counts>
+      <entry action="Images.Editor.ToggleGrid@Images.Editor" count="2" />
+      <entry action="Images.Thumbnails.Hide@Images.Thumbnails" count="1" />
+      <entry action="Rerun@RunnerToolbar" count="8" />
+      <entry action="UML.ExportToFile@Diagrams" count="15" />
+      <entry action="UML.FitContent@Diagrams" count="2" />
+      <entry action="UML.PrintGraph@Diagrams" count="1" />
+      <entry action="UML.PrintPreview@Diagrams" count="1" />
+      <entry action="UML.SaveDiagram@Diagrams" count="25" />
+      <entry action="UML.ZoomIn@Diagrams" count="1" />
+      <entry action="UML.ZoomOut@Diagrams" count="3" />
+      <entry action="ViewBreakpoints@DebuggerToolbar" count="1" />
+      <entry action="XDebugger.MuteBreakpoints@DebuggerToolbar" count="1" />
+      <entry action="com.intellij.application.options.schemes.AbstractSchemesPanel$ShowSchemesActionsListAction@NavBarToolbar" count="6" />
+      <entry action="com.intellij.diff.actions.impl.SetEditorSettingsAction@DiffToolbar" count="1" />
+      <entry action="com.intellij.find.SearchTextArea$ClearAction@unknown" count="2" />
+      <entry action="com.intellij.find.editorHeaderActions.AddOccurrenceAction@EditorToolbar" count="4" />
+      <entry action="com.intellij.find.editorHeaderActions.FindAllAction@EditorToolbar" count="6" />
+      <entry action="com.intellij.find.editorHeaderActions.NextOccurrenceAction@EditorToolbar" count="4" />
+      <entry action="com.intellij.find.editorHeaderActions.PrevOccurrenceAction@EditorToolbar" count="4" />
+      <entry action="com.intellij.find.editorHeaderActions.SelectAllAction@EditorToolbar" count="7" />
+      <entry action="com.intellij.find.impl.FindPopupDirectoryChooser$MyRecursiveDirectoryAction@EditorToolbar" count="2" />
+      <entry action="com.intellij.find.impl.FindPopupPanel$MySelectScopeToggleAction@EditorToolbar" count="3" />
+      <entry action="com.intellij.history.integration.ui.views.HistoryDialog$RevertAction@HistoryDialogRevisions" count="2" />
+      <entry action="com.intellij.ide.browsers.actions.BaseWebBrowserAction@ContextToolbar" count="1" />
+      <entry action="com.intellij.ide.fileTemplates.impl.AllFileTemplatesConfigurable$5@FileTemplatesConfigurable" count="1" />
+      <entry action="com.intellij.ide.structureView.newStructureView.TreeActionWrapper@StructureViewToolbar" count="2" />
+      <entry action="com.intellij.ide.util.gotoByName.ChooseByNameFilter$FilterAction@gotfile.filter" count="1" />
+      <entry action="com.intellij.openapi.actionSystem.DefaultActionGroup@DebuggerToolbar" count="1" />
+      <entry action="com.intellij.openapi.keymap.impl.ui.KeymapPanel$10@Keymap" count="1" />
+      <entry action="com.intellij.openapi.keymap.impl.ui.KeymapPanel$9@Keymap" count="5" />
+      <entry action="com.intellij.openapi.roots.ui.configuration.CommonContentEntriesEditor$AddContentEntryAction@unknown" count="7" />
+      <entry action="com.intellij.ui.AnActionButton$AnActionButtonWrapper@ToolbarDecorator" count="3" />
+      <entry action="com.intellij.ui.AutoScrollFromSourceHandler$AutoScrollFromSourceAction@StructureViewToolbar" count="2" />
+      <entry action="com.intellij.ui.AutoScrollToSourceHandler$AutoscrollToSourceAction@StructureViewToolbar" count="2" />
+      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="6" />
+      <entry action="com.intellij.ui.treeStructure.actions.CollapseAllAction@StructureViewToolbar" count="1" />
+      <entry action="com.intellij.ui.treeStructure.actions.ExpandAllAction@StructureViewToolbar" count="3" />
+      <entry action="com.intellij.uml.core.actions.ChangeCreationEdgeMode@Diagrams" count="2" />
+      <entry action="com.intellij.uml.core.actions.UmlCategorySwitcher@Diagrams" count="40" />
+      <entry action="com.intellij.uml.core.actions.visibility.UmlVisibilityActionGroup@Diagrams" count="4" />
+      <entry action="com.intellij.usages.impl.UsageViewImpl$CloseAction@UsageViewToolbar" count="2" />
+      <entry action="com.intellij.webcore.resourceRoots.WebIdeProjectStructureConfigurable$MyContentEntryTreeEditor$2@ProjectStructureContentEntries" count="2" />
+      <entry action="org.intellij.plugins.markdown.ui.actions.editorLayout.EditorAndPreviewLayoutChangeAction@EditorToolbar" count="2" />
+      <entry action="org.intellij.plugins.markdown.ui.actions.editorLayout.EditorOnlyLayoutChangeAction@EditorToolbar" count="1" />
+      <entry action="org.intellij.plugins.markdown.ui.actions.editorLayout.PreviewOnlyLayoutChangeAction@EditorToolbar" count="2" />
+    </counts>
+  </component>
+</application>
