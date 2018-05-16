@@ -1,0 +1,13 @@
+#!/bin/bash
+
+docker network create --attachable web
+docker volume create nginx-proxy
+
+docker run -d \
+	--restart always \
+	-p 80:80 -v \
+	/var/run/docker.sock:/tmp/docker.sock -v \
+	nginx-proxy:/etc/nginx/certs \
+	--name nginx-proxy_dev \
+	--net web \
+	jwilder/nginx-proxy

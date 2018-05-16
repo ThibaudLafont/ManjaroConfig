@@ -61,7 +61,7 @@ alias config='cd /home/thib/Dev/Config'
 alias dockconf='cd /home/thib/Dev/Docker'
 alias www='cd /home/thib/Dev/www/'
 alias dgit='docker run -ti --rm -v $(pwd):/git -v $HOME/.ssh:/root/.ssh alpine/git'
-alias composer='docker run --rm -v $(pwd):/app -v $HOME/.ssh:/root/.ssh composer/composer --ignore-platform-reqs'
+alias composer='/home/thib/Dev/Apps/composer.phar'
 
 # Theming section  
 autoload -U compinit colors zcalc
