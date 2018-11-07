@@ -1,0 +1,5 @@
+cd ~/.PhpStorm*
+rm config/eval/*
+sed -i '/evlsprt/d' config/options/options.xml
+cd ~/.java/.userPrefs/jetbrains
+rm -rf phpstorm
