@@ -283,6 +283,7 @@ exec --no-startup-id nm-applet
 exec --no-startup-id xfce4-power-manager
 exec --no-startup-id pamac-tray
 exec --no-startup-id clipit
+exec --no-startup-id conky -c /home/thib/Dev/Config/00Scripts/conky_base_bottom_right
 exec --no-startup-id conky -c /home/thib/Dev/Config/00Scripts/conky_base
 # exec --no-startup-id blueman-applet
 # exec_always --no-startup-id sbxkb
@@ -291,6 +292,8 @@ exec --no-startup-id conky -c /home/thib/Dev/Config/00Scripts/conky_base
 exec --no-startup-id xautolock -time 120 -locker blurlock
 exec_always --no-startup-id ff-theme-util
 exec_always --no-startup-id fix_xcursor
+# exec_always --no-startup-id feh --bg-scale /home/thib/Dev/Config/wallpapers/001.png
+# exec --no-startup-id ~/Dev/Config/00Scripts/fehbg
 
 # Color palette used for the terminal ( ~/.Xresources file )
 # Colors are gathered based on the documentation:

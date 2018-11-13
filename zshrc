@@ -63,6 +63,7 @@ alias www='cd /home/thib/Dev/www/'
 alias dgit='docker run -ti --rm -v $(pwd):/git -v $HOME/.ssh:/root/.ssh alpine/git'
 alias composer='/home/thib/Dev/Apps/composer.phar'
 alias ng='/home/thib/.npm-global/bin/ng'
+alias ungit='/home/thib/.npm-global/bin/ungit'
 
 # Theming section  
 autoload -U compinit colors zcalc
