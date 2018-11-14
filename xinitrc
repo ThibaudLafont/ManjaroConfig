@@ -65,5 +65,5 @@ get_session(){
 
 exec $(get_session)
 
-# Perso
-# sh ~/Dev/Config/00Scripts/fehbg
+
+

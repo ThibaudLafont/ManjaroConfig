@@ -1,0 +1,4 @@
+modelname=$(cat /proc/cpuinfo | grep 'model name' | uniq)
+model=$modelname | grep 'i7'
+echo $model
+([i]\d.[^\s]*(\s))(:?\w+\s@\s)(.+)

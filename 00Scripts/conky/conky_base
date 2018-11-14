@@ -38,34 +38,34 @@ $color2${top name 5}${goto 120}$color${top cpu 5}%${goto 170}$color2${top_mem na
 ${voffset 3}$hr
 # RAM
 $color${voffset 4}${alignr}${font Bitstream Vera Sans:size=10}RAM 
-${goto 0}${color #397784}$alignc${memgraph 40,305}
-${voffset 4}${goto 0}${alignc}${color #397784}${membar 10, 305}
+${goto 0}${color2}$alignc${memgraph 40,305}
+${voffset 4}${goto 0}${alignc}${color2}${membar 10, 305}
 ${color}${goto 10}${font}${memperc}%${alignr}${mem}/${memmax} 
 ${voffset 3}${color}$hr
 #CPU
 ${voffset 4}${alignr}${font Bitstream Vera Sans:size=10}CPU 
 ${alignr}${font}i7-3630QM@2.40GHz 
-${goto 0}${color #397784}${cpugraph 40}
+${goto 0}${color2}${cpugraph 40}
 ${voffset 0}${goto 10}${color}${font}${hwmon temp 1}C°${alignr}${cpu}% - ${freq_g}GHz  
-${voffset 10}${color}${goto 10}${font Bitstream Vera Sans:size=8}${cpu cpu1}%${goto 43}${color #397784}${cpubar cpu1 12,110} ${goto 170}${color}${cpu cpu2}%${goto 203}${color #397784}${cpubar cpu2 12,110}
-${voffset 4}${color}${goto 10}${font Bitstream Vera Sans:size=8}${cpu cpu3}%${goto 43}${color #397784}${cpubar cpu3 12,110} ${goto 170}${color}${cpu cpu4}%${goto 203}${color #397784}${cpubar cpu4 12,110}
-${voffset 4}${color}${goto 10}${font Bitstream Vera Sans:size=8}${cpu cpu5}%${goto 43}${color #397784}${cpubar cpu5 12,110} ${goto 170}${color}${cpu cpu6}%${goto 203}${color #397784}${cpubar cpu6 12,110}
-${voffset 4}${color}${goto 10}${font Bitstream Vera Sans:size=8}${cpu cpu7}%${goto 43}${color #397784}${cpubar cpu7 12,110} ${goto 170}${color}${cpu cpu8}%${goto 203}${color #397784}${cpubar cpu8 12,110}
+${voffset 10}${color}${goto 10}${font Bitstream Vera Sans:size=8}${cpu cpu1}%${goto 43}${color2}${cpubar cpu1 12,110} ${goto 170}${color}${cpu cpu2}%${goto 203}${color2}${cpubar cpu2 12,110}
+${voffset 4}${color}${goto 10}${font Bitstream Vera Sans:size=8}${cpu cpu3}%${goto 43}${color2}${cpubar cpu3 12,110} ${goto 170}${color}${cpu cpu4}%${goto 203}${color2}${cpubar cpu4 12,110}
+${voffset 4}${color}${goto 10}${font Bitstream Vera Sans:size=8}${cpu cpu5}%${goto 43}${color2}${cpubar cpu5 12,110} ${goto 170}${color}${cpu cpu6}%${goto 203}${color2}${cpubar cpu6 12,110}
+${voffset 4}${color}${goto 10}${font Bitstream Vera Sans:size=8}${cpu cpu7}%${goto 43}${color2}${cpubar cpu7 12,110} ${goto 170}${color}${cpu cpu8}%${goto 203}${color2}${cpubar cpu8 12,110}
 ${voffset 3}${color}$hr
 #NETWORK
 $color${voffset 4}${alignr}${font Bitstream Vera Sans:size=10}NETWORK 
 ${font}${alignr}${if_match "$wireless_essid"=="off/any"}Déconnecté${else}${wireless_essid}${endif} 
 ${font}${goto 5}Down${goto 160}Up
-${goto 5}${color #397784}${downspeedgraph wlp3s0 40,153}${goto 160}${upspeedgraph wlp3s0 40,155} 
+${goto 5}${color2}${downspeedgraph wlp3s0 40,153}${goto 160}${upspeedgraph wlp3s0 40,155} 
 ${goto 5}${color}${downspeedf wlp3s0} Kb/s - ${totaldown wlp3s0}${goto 160}${upspeedf wlp3s0} Kb/s - ${totalup wlp3s0}
 ${voffset 4}${color}$hr
 # DISKS
 ${voffset 4}${alignr}${font Bitstream Vera Sans:size=10}DISKS
 ${voffset 2}${font}${alignr}System
-${color #397784}${fs_bar 8 /} 
+${color2}${fs_bar 8 /} 
 ${color}${font}${exec sudo hddtemp /dev/sda | awk '{print $NF}'}${alignr}${fs_used}/${fs_size} 
 ${voffset 6}${font}${alignr}Data
-${color #397784}${fs_bar 8 /run/media/thib/Data} 
+${color2}${fs_bar 8 /run/media/thib/Data} 
 ${if_mounted /run/media/thib/Data}${color}${font}${exec sudo hddtemp /dev/sdb | awk '{print $NF}'}${alignr}${fs_used /run/media/thib/Data}/${fs_size /run/media/thib/Data}${else}${color}${font}${alignr}Unmounted${endif}
 $hr
 #OTHER
@@ -77,6 +77,6 @@ ${voffset 3}$hr
 # BATTERY
 $color${voffset 4}${alignr}${font Bitstream Vera Sans:size=10}BATTERY
 ${font}${voffset 3}${alignr}${battery_percent}%
-${color #397784}${battery_bar}
+${color2}${battery_bar}
 $color${alignr}${if_match "$battery_time"=="unknown"}Charging...${else}Remain Time: ${battery_time}${endif}
 ]]

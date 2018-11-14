@@ -135,7 +135,7 @@ bindsym $mod+Shift+minus move scratchpad
 
 # Show the next scratchpad window or hide the focused scratchpad window.
 # If there are multiple scratchpad windows, this command cycles through them.
-bindsym $mod+minus scratchpad show
+# bindsym $mod+minus scratchpad show
 
 #navigate workspaces next / previous
 bindsym $mod+Ctrl+Right workspace next
@@ -278,22 +278,14 @@ bindsym $mod+9 exec --no-startup-id blurlock
 # Autostart applications
 exec --no-startup-id /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
 exec --no-startup-id nitrogen --restore; sleep 1; compton -b
-#exec --no-startup-id manjaro-hello
 exec --no-startup-id nm-applet
 exec --no-startup-id xfce4-power-manager
 exec --no-startup-id pamac-tray
 exec --no-startup-id clipit
-exec --no-startup-id conky -c /home/thib/Dev/Config/00Scripts/conky_base_bottom_right
-# exec --no-startup-id conky -c /home/thib/Dev/Config/00Scripts/conky_base
-# exec --no-startup-id blueman-applet
-# exec_always --no-startup-id sbxkb
-# exec --no-startup-id start_conky_maia
-# exec --no-startup-id start_conky_green
+exec --no-startup-id conky -c /home/thib/Dev/Config/00Scripts/conky/conky_base
 exec --no-startup-id xautolock -time 120 -locker blurlock
 exec_always --no-startup-id ff-theme-util
 exec_always --no-startup-id fix_xcursor
-# exec_always --no-startup-id feh --bg-scale /home/thib/Dev/Config/wallpapers/001.png
-# exec --no-startup-id ~/Dev/Config/00Scripts/fehbg
 
 # Color palette used for the terminal ( ~/.Xresources file )
 # Colors are gathered based on the documentation:
