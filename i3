@@ -284,7 +284,7 @@ exec --no-startup-id xfce4-power-manager
 exec --no-startup-id pamac-tray
 exec --no-startup-id clipit
 exec --no-startup-id conky -c /home/thib/Dev/Config/00Scripts/conky_base_bottom_right
-exec --no-startup-id conky -c /home/thib/Dev/Config/00Scripts/conky_base
+# exec --no-startup-id conky -c /home/thib/Dev/Config/00Scripts/conky_base
 # exec --no-startup-id blueman-applet
 # exec_always --no-startup-id sbxkb
 # exec --no-startup-id start_conky_maia
