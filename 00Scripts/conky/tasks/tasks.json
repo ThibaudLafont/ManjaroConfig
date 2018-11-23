@@ -1,0 +1,50 @@
+[
+  {
+    "category": [
+      {
+        "name": "Shields",
+        "priority": 4,
+        "createdAt": "01/01/2018",
+        "doneAt": null
+      },
+      {
+        "name": "Richmond",
+        "priority": 0,
+        "createdAt": "01/01/2018",
+        "doneAt": "02/02/2018"
+      }
+    ]
+  },
+  {
+    "category": [
+      {
+        "name": "Crawford",
+        "priority": 3,
+        "createdAt": "01/01/2018",
+        "doneAt": "02/02/2018"
+      },
+      {
+        "name": "Wade",
+        "priority": 1,
+        "createdAt": "01/01/2018",
+        "doneAt": null
+      }
+    ]
+  },
+  {
+    "category": [
+      {
+        "name": "Bernard",
+        "priority": 0,
+        "createdAt": "01/01/2018",
+        "doneAt": null
+      },
+      {
+        "name": "Little",
+        "priority": 1,
+        "createdAt": "01/01/2018",
+        "doneAt": "02/02/2018"
+      }
+    ]
+  }
+]

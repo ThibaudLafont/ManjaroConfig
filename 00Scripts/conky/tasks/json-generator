@@ -1,0 +1,31 @@
+# First version
+[
+  {
+    'repeat(3)': {
+      'category': [{
+  		'repeat(2)': {
+          name: '{{surname()}}',
+          priority: '{{integer(0, 5)}}',
+          createdAt: '01/01/2018',
+          doneAt: '02/02/2018' | null,
+        }
+      }],
+    }
+  }
+]
+
+# Second version
+[
+  {
+    'repeat(3)': {
+      'category': [{
+      'repeat(2)': {
+          name: '{{surname()}}',
+          priority: '{{integer(0, 5)}}',
+          createdAt: '{{moment(this.date(new Date(2014, 0, 1), new Date())).format("short")}}',
+          doneAt: '{{moment(this.date(new Date(2014, 0, 1), new Date())).format("short")}}',
+        }
+      }],
+    }
+  }
+]
