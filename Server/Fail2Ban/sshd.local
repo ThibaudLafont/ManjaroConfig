@@ -1,0 +1,13 @@
+[sshd]
+
+enabled = true
+
+# Conf
+port = 4444
+findtime = 43200 ;12hours
+bantime = 2678400 ;1month
+maxretry = 3
+
+# Send email
+sender = noreply.sysmod@gmail.com
+action = mail-custom
